@@ -4,8 +4,8 @@
 
 **PROJECT DESCRIPTION**
 
-This project explores a multimodal approach for fake news detection, integrating natural language processing and machine learning. 
-Leveraging LSTM, SVM, KNN, Naive bayes, Random Forest, Feature Extraction and Decision Tree models, 
-alongside visualizations like training history plots and confusion matrices, we address the challenges of identifying misinformation. 
-Data pre-processing includes lemmatization and oversampling to enhance model robustness. 
-Results demonstrate the effectiveness of the approach, providing insights for future research in fake news mitigation.
+1. In this project, we delve into a multimodal strategy for detecting fake news by combining natural language processing and machine learning. 
+2. Employing a variety of models such as LSTM, SVM, KNN, Naive Bayes, Random Forest, Feature Extraction, and Decision Tree.
+3. Incorporating visual aids like training history plots and confusion matrices, we tackle the complexities of spotting misinformation.
+4. Our data pre-processing includes lemmatization and oversampling to boost the robustness of the models.
+5. The obtained results underscore the efficacy of our approach, providing valuable insights into mitigating fake news.
