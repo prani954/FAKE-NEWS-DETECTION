@@ -1,5 +1,7 @@
 **FAKE NEWS DETECTION**
+
 TEXT ANALYSIS
+
 **PROJECT DESCRIPTION**
 
 1. In this project, we delved into a multimodal strategy for detecting fake news by combining natural language processing and machine learning. 
