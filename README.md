@@ -54,26 +54,25 @@ BERT (Bidirectional Encoder Representations from Transformers) was fine-tuned fo
 ```
 git clone https://github.com/prani954/FAKE_NEWS_DETECTION.git
 cd FAKE_NEWS_DETECTION
-
 ```
 
 ## Usage
 
 1. Preprocess the data:
 
-Clean and prepare the dataset using the provided scripts.
+  Clean and prepare the dataset using the provided scripts.
 
 2. Train the models:
 
-Run the training scripts to train LSTM, SVM, KNN, Naive Bayes, Random Forest, and Decision Tree models.
+  Run the training scripts to train LSTM, SVM, KNN, Naive Bayes, Random Forest, and Decision Tree models.
 
 3. Evaluate the models:
 
-Use the evaluation scripts to generate accuracy metrics, confusion matrices, and other visualizations.
+  Use the evaluation scripts to generate accuracy metrics, confusion matrices, and other visualizations.
 
 4. Visualize results:
 
-Generate and analyze visualizations like word clouds, correlation matrices, and performance graphs.
+  Generate and analyze visualizations like word clouds, correlation matrices, and performance graphs.
 
 ## License
 
