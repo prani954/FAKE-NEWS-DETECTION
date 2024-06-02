@@ -9,13 +9,13 @@ The proliferation of fake news poses a significant threat to public discourse an
 ## Concepts Used
 The project employs the following models and techniques:
 
-LSTM (Long Short-Term Memory): Effective for analyzing sequences of text data.
-SVM (Support Vector Machine): Useful for text classification, handling high-dimensional data.
-KNN (K-Nearest Neighbors): Classifies data based on the majority class of its k-nearest neighbors.
-Naive Bayes: Probabilistic algorithm efficient for text classification tasks.
-Random Forest: Ensemble learning method that constructs multiple decision trees.
-Decision Tree: Tree-like model for classification tasks.
-Feature Extraction: Techniques like TF-IDF and word embeddings for transforming text data.
+- LSTM (Long Short-Term Memory): Effective for analyzing sequences of text data.
+- SVM (Support Vector Machine): Useful for text classification, handling high-dimensional data.
+- KNN (K-Nearest Neighbors): Classifies data based on the majority class of its k-nearest neighbors.
+- Naive Bayes: Probabilistic algorithm efficient for text classification tasks.
+- Random Forest: Ensemble learning method that constructs multiple decision trees.
+- Decision Tree: Tree-like model for classification tasks.
+- Feature Extraction: Techniques like TF-IDF and word embeddings for transforming text data.
 
 **Data Analysis**
 
