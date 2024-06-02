@@ -16,7 +16,6 @@ Naive Bayes: Probabilistic algorithm efficient for text classification tasks.
 Random Forest: Ensemble learning method that constructs multiple decision trees.
 Decision Tree: Tree-like model for classification tasks.
 Feature Extraction: Techniques like TF-IDF and word embeddings for transforming text data.
-Data Cleaning: Preprocessing steps to enhance data quality.
 
 **Data Analysis**
 
