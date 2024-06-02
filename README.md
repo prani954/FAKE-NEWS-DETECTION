@@ -46,6 +46,13 @@ Logistic Regression was employed, and its performance was evaluated using confus
 
 BERT (Bidirectional Encoder Representations from Transformers) was fine-tuned for the fake news detection task. BERT's ability to understand context and relationships between words significantly improved prediction accuracy.
 
+## Packages
+
+```
+pip install sweetviz
+pip install wordcloud
+pip install textstat
+```
 
 ## Installation
 
