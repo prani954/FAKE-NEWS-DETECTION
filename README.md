@@ -1,6 +1,6 @@
 # Fake News Detection
 
-This repository contains the implementation of a fake news detection system using various machine learning and natural language processing techniques. The project leverages models like LSTM, SVM, KNN, Naive Bayes, Random Forest, and Decision Trees, alongside feature extraction and visualization tools to identify and classify fake news articles.
+This repository contains the implementation of a fake news detection system using various machine learning and natural language processing techniques. The project leverages machine learning models like LSTM, SVM, KNN, Naive Bayes, Random Forest, and Decision Trees, alongside feature extraction and visualization tools to identify and classify fake news articles.
 
 ## Introduction
 
